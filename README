@@ -1,0 +1,1 @@
+A simple GUI tool, written in Java, to add new uniform columns to a csv file. Program accepts a header value for the new column and the content with which to populate the new column. By default columns are added as the new first column, though the user can specify the position at which the column should be inserted as a column number (e.g. as the third column).
